@@ -4,7 +4,7 @@
 	var q;
 	console.log("____---___ Script is called");
 
-	var  = function( selector, context){
+	var dQ = function( selector, context){
 		return q.query(selector, context);
 	};
 
